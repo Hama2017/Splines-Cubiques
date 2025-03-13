@@ -1,3 +1,15 @@
+/**
+ * @author Hamadou BA
+ * Dépôt GitLab : https://www-apps.univ-lehavre.fr/forge/bh243413/tp5-ps-splines-cubiques.git
+ * 
+ * Classe Spline pour interpolation par splines cubiques
+ * pour des fonctions reelles d'une variable reelle.
+ * Cette classe permet de construire une interpolation par splines cubiques
+ * a partir d'un ensemble de points de support, puis d'evaluer
+ * la fonction d'interpolation en n'importe quel point de l'intervalle
+ * delimite par les abscisses des points de support.
+ */
+
 package tp5.ps;
 
 public class Spline {

@@ -1,3 +1,15 @@
+
+/**
+ * @author Hamadou BA
+ * Dépôt GitLab : https://www-apps.univ-lehavre.fr/forge/bh243413/tp5-ps-splines-cubiques.git
+ * 
+ * Programme principal pour l'interpolation par splines cubiques
+ * Utilise XChart pour l'affichage graphique.
+ * Ce programme lit des points de support depuis un fichier,
+ * calcule l'interpolation par splines cubiques et affiche
+ * graphiquement les points de support et la courbe d'interpolation.
+ */
+
 package tp5.ps;
 
 import org.knowm.xchart.SwingWrapper;
