@@ -2,7 +2,6 @@
 
 ## Auteur
 **Hamadou BA**  
-Dépôt GitLab: https://www-apps.univ-lehavre.fr/forge/bh243413/tp5-ps-splines-cubiques.git
 
 ## Description
 Ce projet implémente l'interpolation par splines cubiques pour des fonctions réelles d'une variable réelle. L'application permet de lire des points de support depuis un fichier, de calculer l'interpolation par splines cubiques et d'afficher le résultat graphiquement.
