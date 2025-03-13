@@ -46,7 +46,7 @@ L'interpolation par splines cubiques est une méthode qui permet de construire u
 ```
 
 ### Résultat graphique
-![Exemple d'interpolation par splines cubiques](src/main/resources/img01.png)
+![Exemple d'interpolation par splines cubiques](Tp5/src/main/resources/img01.png)
 
 Sur cette image, on peut voir:
 - Les points de support (en rouge)
